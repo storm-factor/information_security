@@ -31,7 +31,9 @@
 2. Ссылки на уязвимости
 
 [Ссылка на уязвимость для ftp](https://www.exploit-db.com/exploits/17491)
+
 [Ссылка на уязвимость для ssh](https://www.exploit-db.com/exploits/41680) 
+
 [Ссылка на уязвимость для telnet](https://www.exploit-db.com/exploits/16851)
 
 
